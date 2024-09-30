@@ -490,9 +490,10 @@ nav .fa-solid {
     .header-text {
         position: relative;
         top: 830px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         font-size: 50px;
-        color: #060677;
-        border: #840d0d;
+        color: #27084a;
+        border: #3b096d;
         font-weight: bold;
     }
 
@@ -552,7 +553,7 @@ nav .fa-solid {
 
     .tab-links {
         font-size: 25px;
-        margin-left: 30px;
+        margin-left: -5px;
     }
 
     .contact-right form {
